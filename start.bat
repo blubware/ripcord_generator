@@ -1,0 +1,16 @@
+cd Ripcords
+start Ripcord_1.lnk
+start Ripcord_2.lnk
+start Ripcord_3.lnk
+start Ripcord_4.lnk
+start Ripcord_5.lnk
+start Ripcord_6.lnk
+start Ripcord_7.lnk
+start Ripcord_8.lnk
+start Ripcord_9.lnk
+start Ripcord_10.lnk
+start Ripcord_11.lnk
+start Ripcord_12.lnk
+start Ripcord_13.lnk
+start Ripcord_14.lnk
+start Ripcord_15.lnk
